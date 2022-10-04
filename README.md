@@ -1,5 +1,3 @@
-# predict_geological_sample
-
 # Predicting your geological sample using CNN
 This machine learning web-application was built based on a small dataset (1000 pictures, 
 with 5 categories: amethyst, ammonite, aventurin, empty, obsidian), and it's purpose is to recognize minerals and fossils from a personal collection.
@@ -34,3 +32,4 @@ Test and have fun with the app.
 For more details check the following Jupyter Notebook file* (*jupyter package is required): `M3_TEST_Rock_mineral_image_classification_transfer_learning.ipynb` 
 
 Check also the `M3_presentation.slides.html` file from the reveals.js folder for a presentation of the project
+
