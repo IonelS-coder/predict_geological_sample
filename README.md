@@ -1,6 +1,6 @@
 # Predicting your geological sample using CNN
 This machine learning web-application was built based on a small dataset (1000 pictures, 
-with 5 categories: amethyst, ammonite, aventurin, empty, obsidian), and it's purpose is to recognize minerals and fossils from a personal collection.
+with 5 categories: amethyst, ammonite, aventurin, empty, obsidian), and its purpose is to recognize minerals and fossils from a personal collection.
 
 
 ## Usage
